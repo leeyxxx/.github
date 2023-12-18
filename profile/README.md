@@ -13,7 +13,7 @@ https://vercel.com/leeyxblog
 账号：UID_1756F4E0B4C05119A93B2254BB42D945@mail.qq \
 密码：y****o（最常用的密码）
 ### 问题
-运行了一段时间不知道为什么报错，先换成Giscus.
+运行了一段时间不知道为什么报错，换成Giscus.
 
 # 仓库作用
 ### .github
